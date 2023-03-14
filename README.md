@@ -1,4 +1,4 @@
-# pgrsystem
+#PGR-System
 
 
 ## Getting Started
@@ -13,9 +13,9 @@ To get started, clone the repository and run `npm install` to install all depend
 - `npm start` - Start the server.
 
 
-# Backend
-
 ## Dependencies
+
+# Backend
 
 - bcryptjs: ^2.4.3
 - body-parser: ^1.20.1
@@ -29,8 +29,6 @@ To get started, clone the repository and run `npm install` to install all depend
 - validator: ^13.7
 
 # Frontend
-
-Frontend is a project that utilizes the following technologies:
 
 - @material-ui/core: ^4.12.4
 - @material-ui/icons: ^4.11.3
@@ -54,25 +52,3 @@ Frontend is a project that utilizes the following technologies:
 
 The proxy used is http://192,168,56,1,4000
 
-## Scripts
-
-The following scripts are available in this project
-
-```bash
-
-# Start the application in development mode
-
-npm start
-
-# Build the application for production
-
-npm build
-
-# Run tests on the application
-
-npm test
-
-# Eject configuration from the application
-
-npm eject
-```
