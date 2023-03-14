@@ -1,6 +1,5 @@
 # pgrsystem
 
-pgrsystem is a web application designed to facilitate the process of managing and tracking the progress of students in a university.
 
 ## Getting Started
 
