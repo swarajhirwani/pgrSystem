@@ -1,0 +1,37 @@
+.banner {
+    background: linear-gradient(90deg, #1CB5E0 0%, #000851 100%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 91.9vmin;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  .banner > p {
+    margin: 5vmax;
+  
+    font: 600 2.5vmax "Roboto";
+  }
+  
+  .banner > h1 {
+    font: 300 1.4vmax "Lucida Sans";
+  }
+  
+ 
+  
+  .banner::after {
+    content: "";
+    width: 100vw;
+    height: 100vmin;
+    background-color: #ffffff;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    clip-path: polygon(100% 68%, 0 100%, 100% 100%);
+    max-width: 100%;
+  }

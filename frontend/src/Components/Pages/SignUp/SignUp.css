@@ -1,0 +1,8 @@
+.signup-container{
+    background: linear-gradient(to bottom right, rgb(212, 0, 255), yellow);
+    font-family: 'Shantell Sans', cursive ;
+}
+
+.signup-row{
+    min-height:100vh ;
+}
